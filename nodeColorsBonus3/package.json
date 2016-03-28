@@ -1,0 +1,14 @@
+{
+  "name": "webcolorsapi",
+  "version": "1.0.0",
+  "description": "a program that takes a color name like 'red', 'green', or 'blue' as a command line argument and returns the RGB components, comma-separated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
